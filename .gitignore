@@ -1,0 +1,14 @@
+# Data
+*.h5
+*.hdf5
+
+# Python
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Claude
+CLAUDE.md
