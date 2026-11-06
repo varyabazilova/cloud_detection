@@ -2,6 +2,9 @@
 
 Per-pixel cloud detection using CatBoost on the manually labelled Sentinel-2 dataset of Hollstein et al. (2016). The analysis compares random and scene-based sampling, then applies the final model to a real Sentinel-2 image.
 
+![Cloud and snow probabilities on a real Sentinel-2 image](figures/fig3_real_image.png)
+
+
 ## Repository contents
 
 | Path | Contents |
