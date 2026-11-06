@@ -1,0 +1,12 @@
+group,granule_id,lat,lon,pixels,classes
+3,32TNS,46.8,9.67,4345,"Cloud, Shadow, Snow"
+5,35VLJ,61.78,24.08,87677,"Cirrus, Clear, Cloud, Shadow, Snow, Water"
+9,54HYD,-37.51,143.97,17211,"Clear, Cloud, Water"
+17,38SLF,36.54,42.93,25022,"Clear, Water"
+19,19FCD,-50.67,-71.79,45044,"Clear, Cloud, Snow, Water"
+21,10UEV,49.15,-121.85,53596,"Clear, Shadow, Snow, Water"
+22,19HDE,-32.37,-69.71,61275,"Cirrus, Clear, Cloud, Shadow, Snow"
+22,19HEE,-32.0,-68.66,32090,"Clear, Cloud, Shadow"
+27,30UXC,51.8,-0.92,30485,"Cirrus, Clear, Cloud, Water"
+38,36LXM,-12.4,34.18,117492,"Cirrus, Clear, Cloud, Shadow, Water"
+38,36LYN,-11.43,35.4,101202,"Cirrus, Clear, Cloud, Shadow, Water"

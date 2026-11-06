@@ -1,0 +1,22 @@
+\begin{table}[htbp]
+    \centering
+    \small
+    \caption{Cloud detection at $P(\mathrm{Cloud}) \geq 0.5$ under random and scene-based sampling. Parentheses show 95\% intervals from resampling whole scene groups. Cirrus is counted as not cloud.}
+    \label{tab:cloud_performance}
+    \begin{tabular}{lcccc}
+        \toprule
+        & \multicolumn{2}{c}{Random} & \multicolumn{2}{c}{Scene} \\
+        \cmidrule(lr){2-3} \cmidrule(lr){4-5}
+        Metric & CV & Holdout & CV & Holdout \\
+        \midrule
+        Recall & 0.994 (0.99--1.00) & 0.941 (0.72--0.99) & 0.920 (0.86--0.97) & 0.930 (0.70--0.99) \\
+        Precision & 0.996 (0.99--1.00) & 0.996 (0.98--1.00) & 0.910 (0.79--0.97) & 0.998 (0.99--1.00) \\
+        PR-AUC & >0.999 (1.00--1.00) & 0.995 (0.94--1.00) & 0.981 (0.96--0.99) & 0.995 (0.95--1.00) \\
+        \midrule
+        TP & 391,964 & 86,552 & 362,767 & 85,569 \\
+        FN & 2,445 & 5,469 & 31,642 & 6,452 \\
+        FP & 1,383 & 352 & 35,700 & 140 \\
+        TN & 2,057,502 & 483,066 & 2,023,185 & 483,278 \\
+        \bottomrule
+    \end{tabular}
+\end{table}

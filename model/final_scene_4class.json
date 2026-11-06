@@ -1,0 +1,25 @@
+{
+  "classes": [
+    "Rest",
+    "Cloud",
+    "Snow",
+    "Water"
+  ],
+  "band_order": [
+    "B1",
+    "B2",
+    "B3",
+    "B4",
+    "B5",
+    "B6",
+    "B7",
+    "B8",
+    "B8a",
+    "B9",
+    "B10",
+    "B11",
+    "B12"
+  ],
+  "cloud_threshold": 0.5,
+  "input": "top-of-atmosphere reflectance (Sentinel-2 Level-1C)"
+}

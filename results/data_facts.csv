@@ -1,0 +1,12 @@
+fact,value
+pixels,3028733.0
+missing_values,0.0
+negative_values,0.0
+products,48.0
+granules,51.0
+scene_groups,39.0
+smallest_product_pixels,4345.0
+largest_product_pixels,218694.0
+median_B10_all_pixels,0.0020999908447265625
+median_B11_snow,0.0780029296875
+median_B11_cloud,0.56640625
